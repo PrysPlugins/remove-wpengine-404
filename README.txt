@@ -2,7 +2,7 @@
 Contributors: JPry
 Donate link:
 Tags: wpengine, 404, bots
-Requires at least: 3.5.2
+Requires at least: 3.8
 Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
