@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Remove WP Engine Bot 404
- * Plugin URI: https://github.com/JCPry/remove-wpengine-404
+ * Plugin URI: http://wordpress.org/plugins/remove-wp-engine-404-for-bots/
  * Description: WP Engine has a custom 404 page for bots. This plugin removes that customization.
  * Version: 1.0
  * Author: Jeremy Pry
